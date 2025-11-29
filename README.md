@@ -1,4 +1,4 @@
-#Minimal Modern Hopfield Example
+# Minimal Modern Hopfield Example
 
 This is the bare minimum hopfield example using ascii art and using the hopfield model as a classifier.
 
